@@ -1,1 +1,16 @@
-
+<Bug_Report>
+	<ID></ID> 
+	<Summary></Summary>
+	<Incident_Description></Incident_Description>
+	<Pre-Conditions></Pre-Conditions>
+	<Steps_to_reproduce></Steps_to_reproduce>
+	<Actual_result></Actual_result>
+	<Expected_result></Expected_result>
+	<Environment></Environment>
+	<Build></Build>
+	<Attempt_to_repeat></Attempt_to_repeat>
+	<Impact></Impact>
+	<Severity></Severity>
+	<Priority></Priority>
+	<Attachment></Attachment>
+</Bug_Report>
